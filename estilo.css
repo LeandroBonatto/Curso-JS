@@ -18,15 +18,6 @@ section {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.360)
 }
 
-div {
-    text-align: center;
-    padding: 8px;
-}
-
-#imagem {
-    border-radius: 45px;
-}
-
 footer {
     color: white;
     text-align: center;
